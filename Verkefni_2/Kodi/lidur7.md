@@ -8,13 +8,13 @@ i = 0<br>
 <br>
 while True:<br>
 
-    if pir.motion_detected:<br>
-        print("Motion Detected ", i )<br>
-        led.on()<br>
-    else:<br>
-        print("No Motion ", i)<br>
-        led.off()<br>
-    <br>
-    i += 1<br>
-    <br>
-    sleep(.2)<br>
+    if pir.motion_detected
+        print("Motion Detected ", i )
+        led.on()
+    else:
+        print("No Motion ", i)
+        led.off()
+    
+    i += 1
+    
+    sleep(.2)
