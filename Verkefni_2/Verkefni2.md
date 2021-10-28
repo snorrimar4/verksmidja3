@@ -17,8 +17,8 @@ Liður 6 <br>
 [Linkur á kóða]()<br>
 [Linkur á myndband]()<br>
 Liður 6b 3 sec timer<br>
-[Linkur á kóða]()
-[Linkur á myndband]()
+[Linkur á kóða]()<br>
+[Linkur á myndband]()<br>
 Liður 7 <br>
 [Linkur á kóða]()<br>
 [Linkur á myndband]()<br>
