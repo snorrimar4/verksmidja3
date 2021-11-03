@@ -11,7 +11,7 @@ Raspberry Pi er með vesen<br>
 
 3.4 OLED<br>
 i. Nafnið mitt<br>
-[Linkur á Kóða]()<br>
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/OLED_nafn.ino)<br>
 [Linkur á myndband]()<br>
 
 ii. Mynd af mér<br>
