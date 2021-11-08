@@ -21,5 +21,5 @@ ii. Mynd af mér<br>
 [Linkur á Myndband]()<br>
 
 3. Birta Hrekkjavaka! á Raspberry og OLED <br>
-[Linkur á Kóða]()
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/OLED_hrekkjavaka.py)
 [Linkur á Myndband]()
