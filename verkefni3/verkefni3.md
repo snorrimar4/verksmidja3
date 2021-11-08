@@ -3,7 +3,9 @@
 [Linkur á myndband]()<br>
 
 3.2<br>
-Raspberry Pi er með vesen<br>
+[Linkur á Kóða]()<br>
+[Linkur á Myndband 1]()
+[Linkur á Myndband 2]()
 
 3.3 RFID & Arduino<br>
 [Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/RFID_Arduino.ino)<br>
