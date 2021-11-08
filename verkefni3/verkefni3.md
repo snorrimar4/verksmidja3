@@ -4,8 +4,8 @@
 
 3.2<br>
 [Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/RFID_RASP.py)<br>
-[Linkur á Myndband 1](https://youtu.be/IhQ79np-ur4)
-[Linkur á Myndband 2](https://youtu.be/u6Yhu7eoY7Q)
+[Linkur á Myndband 1](https://youtu.be/u6Yhu7eoY7Q)
+[Linkur á Myndband 2](https://youtu.be/IhQ79np-ur4)
 
 3.3 RFID & Arduino<br>
 [Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/RFID_Arduino.ino)<br>
