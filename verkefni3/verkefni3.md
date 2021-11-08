@@ -15,5 +15,9 @@ i. Nafnið mitt<br>
 [Linkur á myndband]()<br>
 
 ii. Mynd af mér<br>
-[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/OLED_skjar.ino)
-[Linkur á mundband]()
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/OLED_skjar.ino)<br>
+[Linkur á Myndband]()<br>
+
+3. Birta Hrekkjavaka! á Raspberry og OLED <br>
+[Linkur á Kóða]()
+[Linkur á Myndband]()
