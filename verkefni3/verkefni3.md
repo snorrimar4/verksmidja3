@@ -3,7 +3,7 @@
 [Linkur á myndband]()<br>
 
 3.2<br>
-[Linkur á Kóða]()<br>
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni3/kodi/RFID_RASP.py)<br>
 [Linkur á Myndband 1]()
 [Linkur á Myndband 2]()
 
