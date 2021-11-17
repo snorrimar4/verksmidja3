@@ -7,18 +7,14 @@
 [Linkur á myndband](https://youtu.be/K5SVz0RT8hI)<br>
 
 4.3 <br>
-[Linkur á Kóða]()<br>
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni_4/kodi/Remote_GPIO.py)<br>
 [Linkur á myndband](https://youtu.be/oW_mOmV1U2A)<br>
 
 4.4 <br>
 liður 1<br>
-[Linkur á Kóða]()<br>
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni_4/kodi/Remote_gpio_lidur1.py)<br>
 [Linkur á myndband](https://youtu.be/nW0cpu-9BM4)<br>
 
 liður 2 <br>
-[Linkur á Kóða]()<br>
+[Linkur á Kóða](https://github.com/snorrimar4/verksmidja3/blob/main/verkefni_4/kodi/Remote_gpio_lidur2.py)<br>
 [Linkur á myndband](https://youtu.be/0XnCqSKx6zY)<br>
-
-liður 3 <br>
-[Linkur á Kóða]()<br>
-[Linkur á myndband]()<br>
