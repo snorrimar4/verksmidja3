@@ -26,11 +26,11 @@ GPIO.setup(24, GPIO.OUT)
 def Send_Email(image):
     sender = 'hurdhurdarsson@gmail.com'
     gmail_password = 'hurdinmin1'
-    recipients = ['snorrimar4@icloud.com','hjorturk@mail.com']
+    recipients = ['snorrimar4@icloud.com','hjorturk@mail.com','snorrimar4@hotmail.com']
 
     # Create the enclosing (outer) message
     outer = MIMEMultipart()
-    outer['Subject'] = 'Attachment Test'
+    outer['Subject'] = 'Intruder detected!'
     outer['To'] = COMMASPACE.join(recipients)
     outer['From'] = sender
     outer.preamble = 'You will not see this in a MIME-aware mail reader.\n'
