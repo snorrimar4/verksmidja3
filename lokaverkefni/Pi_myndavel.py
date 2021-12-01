@@ -21,7 +21,6 @@ COMMASPACE = ', '
 camera = picamera.PiCamera()
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(12, GPIO.IN)
-GPIO.setup(24, GPIO.OUT)
 
 def Send_Email(image):
     sender = 'insert email address of sender'
