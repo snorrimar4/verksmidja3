@@ -11,7 +11,7 @@ from email import encoders
 from email.mime.base import MIMEBase
 from email.mime.multipart import MIMEMultipart
 sensor = BH1750()
-id = '4151cfcf-a611-4419-a330-f6b460face58'
+id = '4151cfcf-a611-4419-a330-f6b460face58' #einstakt id fengið t.d hér https://www.uuidgenerator.net/ Server og þessi þurfa sama 'id'
 client_name = id + 'nightlight_client'
 client_telemetry_topic = id + '/telemetry'
 server_command_topic = id + '/commands'
@@ -24,9 +24,9 @@ GPIO.setup(12, GPIO.IN)
 GPIO.setup(24, GPIO.OUT)
 
 def Send_Email(image):
-    sender = 'hurdhurdarsson@gmail.com'
-    gmail_password = 'hurdinmin1'
-    recipients = ['snorrimar4@icloud.com','hjorturk@mail.com','snorrimar4@hotmail.com']
+    sender = 'insert email address of sender'
+    gmail_password = 'insert password of email address of sender'
+    recipients = ['insert email address of recipient']
 
     # Create the enclosing (outer) message
     outer = MIMEMultipart()
@@ -77,7 +77,7 @@ def handle_command(client, userdata, message):
             image = ('image_Time_{}.jpg'.format(st))
             Send_Email(image)
             time.sleep(2)
-            GPIO.output(24, False)
+            break
     else:
        pass
 
